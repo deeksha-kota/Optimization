@@ -1,1 +1,1 @@
-Best solution: [1.0, 400.0, 2.5, 0.0]\nScore: 178222.5\n
+Best solution: [2.5, 1.0, 0.0, 200.0]\nScore: -2620.0\n
